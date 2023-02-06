@@ -20,10 +20,10 @@ The script will connect to the specified database, check if any of the reserved 
 
 Before running the script, you need to configure the following variables in the script:
 
-`database`: the name of the database you want to connect to
-`host`: the host name or IP address of the database server
-`user`: the username used to connect to the database
-`password`: the password used to connect to the database
+- `database`: the name of the database you want to connect to
+- `host`: the host name or IP address of the database server
+- `user`: the username used to connect to the database
+- `password`: the password used to connect to the database
 
 ## Troubleshooting
 
