@@ -16,6 +16,8 @@ On Mac and Linux, you may need to use python3 instead of python, depending on yo
 
 The script will connect to the specified database, check if any of the reserved words are being used as column names, and print out any errors.
 
+Run the following command: `python check_database_compatibility.py` to check MySQL 8 compatibility.
+
 ## Configuration
 
 Before running the script, you need to configure the following variables in the script:
